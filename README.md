@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
+<img align="right" alt="coding" width="400" src="https://icones8.fr/illustrations/illustration/coworking-male-programmer-writing-program-code--animated">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-git-hub" /> </p>
 
