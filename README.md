@@ -1,4 +1,4 @@
-![logo](https://github.com/Dheeraj-Git-Hub/Dheeraj-Git-Hub/commit/88494b6e53dfbcfc090e44c581a60936fa4f113d)
+![logo](GitHubBanner.png)
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
