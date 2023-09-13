@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
+<img align="right" alt="coding" width="400px" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-git-hub&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-git-hub" /> </p>
 
