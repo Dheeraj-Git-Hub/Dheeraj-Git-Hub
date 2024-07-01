@@ -1,6 +1,6 @@
 ![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Computer Science Engineer from India</h3>
 
 <img align="right" alt="coding" width="100px" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
