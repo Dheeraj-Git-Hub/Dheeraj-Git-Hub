@@ -1,4 +1,4 @@
-![logo](GitHubBanner.png)
+![logo](Hi (1).png)
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
