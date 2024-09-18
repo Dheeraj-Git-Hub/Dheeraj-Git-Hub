@@ -1,4 +1,3 @@
-![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A Computer Science Engineer from India</h3>
 
