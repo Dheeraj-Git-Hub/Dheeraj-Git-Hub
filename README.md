@@ -25,8 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-git-hub&" alt="dheeraj-git-hub" /></p>
 
-###🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dheeraj-Git-Hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Dheeraj-Git-Hub&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dheeraj-Git-Hub&icon=7&color=0)](https://visitcount.itsvg.in)
